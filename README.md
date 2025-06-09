@@ -1,6 +1,4 @@
-### Secure User Authentication
-
-## Task 01 - Secure User Authentication
+## Secure User Authentication
 This project implements a **Secure User Authentication** system. It includes features for secure login and registration, allowing users to:
 - Sign up for a new account
 - Log in securely
